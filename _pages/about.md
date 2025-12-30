@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 This is Linyan Luo, PhD candidate in the Urban Spatial Science Research Lab [https://www.risk.tsukuba.ac.jp/~ussrl/public_html/en_index.htm]
- at the University of Tsukuba. My research focuses on urban spatial analysis, spatially explicit modeling, and the interactions between the built environment, transportation systems, and urban risk and resilience.
+ at the risk and resilience engineering in University of Tsukuba[https://www.risk.tsukuba.ac.jp/en/]. My research focuses on urban spatial analysis, spatially explicit modeling, and the interactions between the built environment, transportation systems, and urban risk and resilience.
 
 I received my Bachelor of Science degree in Geographical Sciences from Southwest University, China. Subsequently, I completed a master’s program in Risk and Resilience Engineering from University of Tsukuba, Japan, where I developed a strong interest in spatial data analysis and the application of quantitative methods to urban and transportation-related problems.
 

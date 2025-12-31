@@ -51,7 +51,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
  # dribbble         : # Username
-  github           : "maxluo0117"
+  github           : "https://github.com/maxluo0117"
   #kaggle           : "" 
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
  # keybase          : # Username
  # instagram        : # Username
 #  lastfm           : # Username
-  linkedin         : "Linyan Luo"
+  linkedin         : "https://www.linkedin.com/in/linyan-luo-a6984a374/?originalSubdomain=jp"
  # mastodon         : # URL
  # medium           : # URL
  # pinterest        : # Username
@@ -84,12 +84,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+    #title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  presentation:
+    title: 'Conference/Seminar Presentation'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

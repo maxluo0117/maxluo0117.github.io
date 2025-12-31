@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "intro_test.jpg"
+  avatar           : "http://maxluo0117.github.io/intro_test.jpg"
   name             : "Linyan Luo"
   pronouns         : "She/Her"  
   bio              : "Phd candidate"
@@ -52,7 +52,7 @@ author:
   #codepen          : # Username
  # dribbble         : # Username
   github           : "maxluo0117"
-  kaggle           : "" 
+  #kaggle           : "" 
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media

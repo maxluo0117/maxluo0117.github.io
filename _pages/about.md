@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Nice to meet you! This is Linyan Luo, PhD candidate in the [Urban Spatial Science Research Lab](https://www.risk.tsukuba.ac.jp/~ussrl/public_html/en_index.htm), [Doctoral program in risk and resilience engineering at the University of Tsukuba](https://www.risk.tsukuba.ac.jp/en/). 
+Nice to meet you! This is Linyan Luo(罗 淋琰， ラ　リンエン), PhD candidate in the [Urban Spatial Science Research Lab](https://www.risk.tsukuba.ac.jp/~ussrl/public_html/en_index.htm), [Doctoral program in risk and resilience engineering at the University of Tsukuba](https://www.risk.tsukuba.ac.jp/en/). 
 Before joining the University of Tsukuba, I received my bachelor’s degree from [the school of geographical sciences in Southwest University](https://geography.swu.edu.cn/), Chongqing, China.
 
 My research interests mainly lie in:

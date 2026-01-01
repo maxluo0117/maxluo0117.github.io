@@ -14,6 +14,7 @@ My research interests mainly lie in:
 - Sustainable transport policy (especially in complex terrain)
 - Facility location problems
 - GeoAI
+
 For more details regarding my research, please refer to my *Publication* and *Talk* page.
 
 In addition, I have a strong interest in *ArcPy*, *Machine learning and deep learning models related to geospatial weighting*, *3D data processing*, and *WebGIS*. I regularly share my personal learning notes and practical experiences related to these topics at the link below.
